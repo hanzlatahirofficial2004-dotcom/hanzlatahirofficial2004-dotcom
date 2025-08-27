@@ -4,7 +4,7 @@ A passionate Cloud Engineer || Website Development Engineer '28 || Hanzla Tahir 
 
 Email Me 👉 ✉️ hanzlatahirofficial2004@gmail.com For Collaboration/Project or Anything Else. 😊😊<br>
 
-🔭 I’m currently working on: Front End Developer<br>
+🔭 I’m currently working on: Front End Development<br>
 🌱 I’m currently learning: HTML, CSS, JavaScript, Also React<br>
 👯 I’m looking to collaborate on: Web-Site Dvelopment<br>
 💬 Ask me about: Collaboration, Tech Support<br>
